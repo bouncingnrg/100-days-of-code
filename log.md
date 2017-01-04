@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+
+### Day 2: 04 Jan 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Started Code accadamy
+
+**Thoughts:** Have opted to go for CodeAccadamyPro, doing the full stack (not inc html as i have a good graps on this). Started my way through the ccsc. Hoping this along with Freecode camp will help me get a better grasp of the Java language.
+
+**Link to work:** https://www.codecademy.com/BOUNCINGNRG
+
+### Day 1: 03 Jan 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Still working through Java on freecode camp
+
+**Thoughts:** I feel i'm struggling with the language and think i need to do 2 different courses to get a grasp - was up at 2.30 this morning, did 4hrs of coding.
+
+**Link to work:** n/a
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
