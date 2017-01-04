@@ -2,7 +2,7 @@
 
 
 ### Day 2: 04 Jan 2017
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Started Code accadamy
 
@@ -11,7 +11,7 @@
 **Link to work:** https://www.codecademy.com/BOUNCINGNRG
 
 ### Day 1: 03 Jan 2017
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Still working through Java on freecode camp
 
