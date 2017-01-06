@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 3: 05 Jan 2017
+
+
+**Today's Progress**: Started Code accadamy
+
+**Thoughts:** working my way through CA, only got about 1hr done yesterday, family got in the way :-)
+
+**Link to work:** https://www.codecademy.com/BOUNCINGNRG### 
+
+
 ### Day 2: 04 Jan 2017
 
 
