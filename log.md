@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: 12 Jan 2017
+
+
+**Today's Progress**: Code Acadamy 
+
+**Thoughts:** Starting the Lean Javascript course with CA, programing language scares me!
+**Link to work:** https://www.codecademy.com/BOUNCINGNRG
+
 ### Day 4-10: 6-11 Jan 2017
 
 
