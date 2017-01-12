@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4-10: 6-11 Jan 2017
+
+
+**Today's Progress**: Code Acadamy 
+
+**Thoughts:** Finished up the 'Learn Sass' skill. I've been going through youtube tutorials on the same subjects at the same time, take longer to complete each challange but i'm deff learning and retaining more, which i helping with the understanding of the language.
+
+**Link to work:** https://www.codecademy.com/BOUNCINGNRG
 
 ### Day 3: 05 Jan 2017
 
