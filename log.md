@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 13: 15 Jan 2017
+
+
+**Today's Progress**: Parallax Scrolling
+
+**Thoughts:** Build a pure css parallax scrolling page, can't figure out the 3d scrolling acpect, thought it would have been through translateZ but didn't work - who bloody knows! :-)
+**Link to work:** http://codepen.io/BOUNCINGNRG/full/OWXqoP/
+
+### Day 13: 14 Jan 2017
+
+
+**Today's Progress**: Parallax Scrolling
+
+**Thoughts:** playing around trying to figure out Parallax scrolling, the 3d looks very complicated.
+
+### Day 12: 13 Jan 2017
+
+
+**Today's Progress**: Code Acadamy 
+
+**Thoughts:** Made my way though some JS, but i'm going to concentrate on html & css for the next month before moving on to JS.
+**Link to work:** https://www.codecademy.com/BOUNCINGNRG
+
 ### Day 11: 12 Jan 2017
 
 
